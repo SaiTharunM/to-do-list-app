@@ -53,7 +53,7 @@ To build a responsive and interactive To-Do List App that allows users to manage
 
 ## 🌐 Live 
 
-🔗 written after deploying in github
+🔗 https://saitharunm.github.io/to-do-list-app/
 
 ---
 
