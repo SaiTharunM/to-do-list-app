@@ -46,7 +46,7 @@ To build a responsive and interactive To-Do List App that allows users to manage
 
 > *You can include screenshots like these if hosted or available locally:*
 >
-> ![Screenshot of To-Do List](images/projectimage.png")
+> ![Screenshot of To-Do List](projectimage.png")
 
 ---
 
